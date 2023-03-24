@@ -6,4 +6,5 @@ Project ZANDVE is licensed under the
 GNU General Public License v3.0<br><br>
 
 Credits to [ZeroGDesign/Mercury](https://github.com/ZeroGDesign/Mercury/)
+
 Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)
