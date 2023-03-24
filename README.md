@@ -1,6 +1,6 @@
 # UPDATE 3/23/2023
 
-I am startuing to load the files  and create the BOM. This is not a simple proces so bare with me as parts will be loaded in sections.
+I am starting to load the files  and create the BOM. This is not a simple proces so bare with me as parts will be loaded in sections.
 
 ## Purpose
 This is a placeholder for uploading the projects I am working on
