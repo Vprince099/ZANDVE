@@ -1,12 +1,12 @@
 # ZANDVE Enclosed E5+ Code Name: Type Z
 
-This mod is is amalgumation of parts from the ZeroG (Mercury1) and Voron (Trident,V1.8,StealthBurner) for the Ender 5 **PLUS**. The primary goal is to provide a enclosed Core-xy printer in similar fashion to Voron design language while still retaining the majority of the E5+ Frame and Z-Motion Systems.   
+This mod is is amalgumation of parts from the ZeroG (Mercury1) and Voron (Trident,V1.8,V0,StealthBurner) for the Ender 5 **PLUS**. The primary goal is to provide a enclosed Core-xy printer in similar fashion to Voron design language while still retaining the majority of the E5+ Frame and Z-Motion Systems.   
 
 <img src="https://github.com/Vprince099/ZANDVE/blob/023c4aff618d76597d8c1b87a853dd6eeb69feca/Type-Z/Images/Full%20Printer%20Render%20Front.png" width="150%" height="150%">
 
 ## Description
 
-This Mod is derived from the enclosure project I am currently working on (Jan-2023). In order to provide a version that can be used by the entire Mercury community. I have forked the design and will upload the enclosure version once I am done. This was inspired by the Voron V0. This provides a sturdy solution for tensioning your belt while maintaining a design that allows clearance for an enclosure.  
+This version is targeted at anyone looking to retain the **ZERO G** badging. The **VORON** badged version can be found here [Type-V](https://github.com/Vprince099/ZANDVE/tree/main/Type-V). In order to provide a version that can be used by the entire E5 Plus community, I am starting with stock Z-Motion (a new upgrade will be released soon to allow for the tri-stepper upgrade HYDRA by ZERO G). This Version is intended to reduce the cost of conversion while still providing a Fully Enclosed CORE-XY Printer - Estimated Conversion Cost **TBD**
 
 ## Dependencies
 
