@@ -1,8 +1,8 @@
-# ZANDVE Enclosed E5+ Printer Code Name: Type Z
+# ZANDVE Enclosed E5+ Code Name: Type Z
 
-This mod is is amalgumation of parts from the ZeroG (Mercury1) and Voron (Trident,V1.8,StealthBurner) for the Ender 5 Plus. The primary goal is to provide a enclosed Core-xy printer in similar fashion to Voron design language while still retaining the majority of the E5+ Frame and Z-Motion Systems.   
+This mod is is amalgumation of parts from the ZeroG (Mercury1) and Voron (Trident,V1.8,StealthBurner) for the Ender 5 **PLUS**. The primary goal is to provide a enclosed Core-xy printer in similar fashion to Voron design language while still retaining the majority of the E5+ Frame and Z-Motion Systems.   
 
-<img src="https://github.com/Vprince099/ZANDVE/blob/cff52b8c5bae5abed1c7fc119a0b1c387aa5e370/Type-Z/Images/Full%20Printer%20Render.png" width="50%" height="50%">
+<img src="https://github.com/Vprince099/ZANDVE/blob/023c4aff618d76597d8c1b87a853dd6eeb69feca/Type-Z/Images/Full%20Printer%20Render%20Front.png" width="150%" height="150%">
 
 ## Description
 
