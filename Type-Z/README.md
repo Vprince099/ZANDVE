@@ -6,7 +6,12 @@ This mod is is amalgumation of parts from the ZeroG (Mercury1) and Voron (Triden
 
 ## Description
 
-This version is targeted at anyone looking to retain the **ZERO G** badging. The **VORON** badged version can be found here [Type-V](https://github.com/Vprince099/ZANDVE/tree/main/Type-V). In order to provide a version that can be used by the entire E5 Plus community, I am starting with stock Z-Motion (a new upgrade will be released soon to allow for the tri-stepper upgrade HYDRA by ZERO G). This Version is intended to reduce the cost of conversion while still providing a Fully Enclosed CORE-XY Printer - Estimated Conversion Cost **TBD**
+This version is targeted at anyone looking to retain the **ZERO G** badging. The **VORON** badged version can be found here [Type-V](https://github.com/Vprince099/ZANDVE/tree/main/Type-V). In order to provide a version that can be used by the entire E5 Plus community, I am starting with stock Z-Motion (a new upgrade will be released soon to allow for the tri-stepper upgrade HYDRA by ZERO G). 
+
+This Version is intended to reduce the cost of conversion while still providing a Fully Enclosed CORE-XY Printer: 
+
+Estimated Conversion Cost from Stock **TBD**
+Estimated Conversion Cost from Mercury 1/1.1 **TBD**
 
 ## Dependencies
 
