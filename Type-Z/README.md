@@ -2,7 +2,7 @@
 
 This mod is is amalgumation of parts from the ZeroG (Mercury1) and Voron (Trident,V1.8,StealthBurner) for the Ender 5 Plus. The primary goal is to provide a enclosed Core-xy printer in similar fashion to Voron design language while still retaining the majority of the E5+ Frame and Z-Motion Systems.   
 
-<img src="https://github.com/Vprince099/UserMods/blob/70ca9a4ffd59bd3d6dac79b1b4dd776309475bd6/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Showcase_Image.PNG" width="50%" height="50%">
+<img src="https://github.com/Vprince099/ZANDVE/blob/cff52b8c5bae5abed1c7fc119a0b1c387aa5e370/Type-Z/Images/Full%20Printer%20Render.png" width="50%" height="50%">
 
 ## Description
 
