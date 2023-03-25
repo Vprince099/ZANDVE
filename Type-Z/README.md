@@ -10,8 +10,8 @@ This version is targeted at anyone looking to retain the **ZERO G** badging. The
 
 This Version is intended to reduce the cost of conversion while still providing a Fully Enclosed CORE-XY Printer: 
 
-Estimated Conversion Cost from Stock **TBD**
-Estimated Conversion Cost from Mercury 1/1.1 **TBD**
+* Estimated Conversion Cost from Stock **TBD**
+* Estimated Conversion Cost from Mercury 1/1.1 **TBD**
 
 ## Dependencies
 
