@@ -51,5 +51,5 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE.
 
 ## Acknowledgments
 
-* ZeroG - Original Towers used to expand upon [Link to Project](https://github.com/ZeroGDesign/Mercury.git)
-* Voron Design - V0 Team for Knob and Thread Appendage [Link to Project](https://github.com/VoronDesign/Voron-0.git)
+* Credits to [ZeroGDesign/Mercury](https://github.com/ZeroGDesign/Mercury/)
+* Credits to [VoronDesign](https://github.com/VoronDesign/)
