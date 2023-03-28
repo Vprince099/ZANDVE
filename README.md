@@ -1,6 +1,21 @@
-# UPDATE 3/25/2023
+# UPDATE 3/28/2023
 
-I am starting to load the files and creation the BOM. This is not a simple process so bear with me as parts will be loaded in sections.
+All files are loaded for Type-Z. Please see below for the project status.
+
+Work ID | Description | Status | LOE | Target Date |
+| :--- | :--- | :--- | :---: | :---: |
+1 | Finish upload of Type-Z | Done | Medium | 3/27/23
+2.1 | Finish Bom | In Progress | Medium | 3/29/23
+2.2 | Work on a basic Assembly guide | Not Started | High | On-Going
+3 | Start Type-V Cad | Not Started | Low | 4/14/23
+3.1 | Build Type-V | Waiting on Parts | Low | 4/14/23
+3.2 | Upload Everything for Type-V | Dependant on Testing | Medium | 4/30/22
+4 | Implement Hydra for Type-Z | Waiting on Parts | Low | TBD
+4.1 | Testing of Hydra | Waiting on Parts | Low | TBD
+4.2 | Release V1 of Type Z | Dependant on Testing | Medium | TBD
+5 | Implement Trident for Type-V | Dependant on Type-V Release | High | TBD
+5.1 | Testing of Trident | Parts Not Ordered | High | TBD
+5.2 | Release V1 of Type-V | Dependant on Testing | Medium | TBD
 
 ## Purpose
 This is a placeholder for uploading the projects I am working on
