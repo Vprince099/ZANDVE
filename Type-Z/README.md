@@ -20,17 +20,8 @@ This Version is intended to reduce the cost of conversion while still providing 
 * I **Do not** recommend scaling the parts via a slicer as you may have issues with fitment
 
 ## Bill of Materials
-Item Name | Quantity | Notes
-| :--- | :---: | :---
-M5x12mm BHCS | 2 | Needed for Rear Mount
-M5x25mm BHCS | 2 | Needed for Inside Mount
-M3x6MM BHCS | 8 | Needed to secure lid
-M3x4mmx5mm Heatset Inserts | 8 | Needed to secure lid
-M5 T-Nut | 6 | You should have at least 4 existing T-nuts from the Original BOM
-M5x20mm SHCS | 2 | From Original BOM
-M5x30mm PIN | 2 | From Original BOM
-M5x1mm Shim | 4 | From Original BOM
-F695 Bearing | 4 | From Original BOM
+
+[BOM](https://docs.google.com/spreadsheets/d/1_rfxcacC1YKR7S-sEJu0cIL2j3crcf0YIQrBYNYs7lM/edit?usp=sharing), vendors and other sources will be added as time permits.
 
 ## Help
 
