@@ -1,11 +1,11 @@
 # UPDATE 3/28/2023
 
-All files are loaded for Type-Z. Please see below for the project status.
+[BOM](https://docs.google.com/spreadsheets/d/1_rfxcacC1YKR7S-sEJu0cIL2j3crcf0YIQrBYNYs7lM/edit?usp=sharing) is complete, I will continue to add links for vendors as time permits. Please see below for the project status.
 
 Work ID | Description | Status | LOE | Target Date |
 | :--- | :--- | :--- | :---: | :---: |
 1 | Finish upload of Type-Z | Done | Medium | 3/27/23
-2.1 | Finish Bom | In Progress | Medium | 3/29/23
+2.1 | Finish Bom | Done | Medium | 3/29/23
 2.2 | Work on a basic Assembly guide | Not Started | High | On-Going
 3 | Start Type-V Cad | Not Started | Low | 4/14/23
 3.1 | Build Type-V | Waiting on Parts | Low | 4/14/23
