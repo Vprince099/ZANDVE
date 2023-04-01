@@ -1,4 +1,6 @@
-# UPDATE 3/29/2023
+# UPDATE 04/01/2023
+
+Added Top Hat XL for users looking to run umbilicals on a canbus
 
 [BOM](https://docs.google.com/spreadsheets/d/1_rfxcacC1YKR7S-sEJu0cIL2j3crcf0YIQrBYNYs7lM/edit?usp=sharing) is complete, I will continue to add links for vendors as time permits. Please see below for the project status.
 
