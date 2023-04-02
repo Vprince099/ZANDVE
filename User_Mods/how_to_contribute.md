@@ -7,7 +7,7 @@ In order to contribute your mod you need to follow these steps:
 1. Make sure you are logged into github (or create an account)
 2. Go to [UserMods Repo](https://github.com/Vprince099/ZANDVE/tree/main/User_Mods)
 3. Fork the repository
-![image](./assets/fork.png)
+![image](./assets/Fork.png)
 4. Upload your files to the right directory (make sure you are in the right repository)
 ![image](./assets/directory_select_1.png)
 5. Add your files
