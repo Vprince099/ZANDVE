@@ -3,6 +3,8 @@
 Printer mods for ZANDVE 3D printers
 Remember to update this README when uploading new mod!
 
+[How To Update](https://github.com/Vprince099/ZANDVE/blob/3a9d36e910386d74119d06c6d2dd472b19573727/User_Mods/how_to_contribute.md)
+
 ***Credit: This idea originates from [ZeroG](https://github.com/Vprince099/UserMods/tree/main/Mercury_One)***
 
 ## Directory structure
