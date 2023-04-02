@@ -1,9 +1,11 @@
-# UPDATE 04/01/2023
+# UPDATE 04/02/2023
+## Revision Log
+* 4/2 Added Built in supports for 6 parts
+* 4/1 Parts fixes and cad update 
+* 3/31 Added Top Hat XL for users looking to run umbilicals on a canbus
+* 3/29 [BOM](https://docs.google.com/spreadsheets/d/1_rfxcacC1YKR7S-sEJu0cIL2j3crcf0YIQrBYNYs7lM/edit?usp=sharing) is complete, I will continue to add links for vendors as time permits. 
 
-Added Top Hat XL for users looking to run umbilicals on a canbus
-
-[BOM](https://docs.google.com/spreadsheets/d/1_rfxcacC1YKR7S-sEJu0cIL2j3crcf0YIQrBYNYs7lM/edit?usp=sharing) is complete, I will continue to add links for vendors as time permits. Please see below for the project status.
-
+## Please see below for the project status.
 Work ID | Description | Status | LOE | Target Date |
 | :--- | :--- | :--- | :---: | :---: |
 1 | Finish upload of Type-Z | Done | Medium | 3/27/23
