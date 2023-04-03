@@ -39,4 +39,4 @@ like so:
 
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
-| *creator_name* | [*Mod Title*](./creator_here/mod_folder_name) | *Example description (short).* |:green_heart::blue_heart::heart:
+| *JellyBob* | [*ZANDVE_Less-Frame*](./JellyBob/ZANDVE_Less-Frame) | A modification to remove the original front cross extrusion which makes it awkward to see the nozzle on build plate for first layer (poor-man’s 3DO nozzle cam) :)  |:green_heart:
