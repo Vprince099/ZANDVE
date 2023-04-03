@@ -1,6 +1,6 @@
 # UPDATE 04/02/2023
 ## Revision Log
-* 4/2 Added Built in supports for 6 parts
+* 4/2 Added Built in supports for 6 parts, CAD Complete for Type-V
 * 4/1 Parts fixes and cad update 
 * 3/31 Added Top Hat XL for users looking to run umbilicals on a canbus
 * 3/29 [BOM](https://docs.google.com/spreadsheets/d/1_rfxcacC1YKR7S-sEJu0cIL2j3crcf0YIQrBYNYs7lM/edit?usp=sharing) is complete, I will continue to add links for vendors as time permits. 
@@ -11,7 +11,7 @@ Work ID | Description | Status | LOE | Target Date |
 1 | Finish upload of Type-Z | Done | Medium | 3/27/23
 2.1 | Finish Bom | Done | Medium | 3/29/23
 2.2 | Work on a basic Assembly guide | Not Started | High | On-Going
-3 | Start Type-V Cad | Not Started | Low | 4/14/23
+3 | Start Type-V Cad | Done | Low | 4/02/23
 3.1 | Build Type-V | Waiting on Parts | Low | 4/14/23
 3.2 | Upload Everything for Type-V | Dependant on Testing | Medium | 4/30/22
 4 | Implement Hydra for Type-Z | Waiting on Parts | Low | TBD
