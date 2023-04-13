@@ -40,4 +40,4 @@ like so:
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
 | *JellyBob* | [*ZANDVE_Less-Frame*](./JellyBob/ZANDVE_Less-Frame) | A modification to remove the original front cross extrusion which makes it awkward to see the nozzle on build plate for first layer (poor-man’s 3DO nozzle cam) :)  |:green_heart:
-| *LTSpenny* | [*ZANDVE_Left_Stepper Pillow_Bearing*](./LTSPENNY/ZANDVE/L_Stepper_Pillow_Bearing) | A modification to add a pillow bearing reusing readily available parts you should already have plenty of.  |:green_heart:
+| *LTSpenny* | [*ZANDVE_Left_Stepper Pillow_Bearing*](./LTSPENNY/ZANDVE/L_Stepper_Pillow_Bearing) | A modification to add a pillow bearing reusing readily available parts you should already have plenty of and implementation of Mercury 1.1 Bearing Stack.  |:green_heart:
